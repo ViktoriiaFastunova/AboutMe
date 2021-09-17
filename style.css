@@ -11,15 +11,15 @@ h1{
 	font-size:40px;margin:45px
 }
 .img{
-	width:250px
-	height:  270px
+	width:45px
+	height:45px
 	margin-right:5px
 	margin-left:5px
 	float: right
 }
 .img1{
-	width:45px
-	height:45px
+	width:250px
+	height:270px
 	float:left
 	margin-left:45px
 }
